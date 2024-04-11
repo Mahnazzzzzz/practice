@@ -2,5 +2,6 @@
 
 int main(void)
 {
-print f("hello, world.")
+atring answer = get_string ("what's your name? ");
+printf (hello, %s\n",answer);
 }
